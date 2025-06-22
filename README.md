@@ -1,3 +1,8 @@
+About
+---------------------------------------------------------------
+Developed a weather application that provides real-time weather information for any city worldwide. The app fetches weather data, including temperature, humidity, and conditions, enabling users to stay informed about global weather patterns. Integrated an intuitive user interface for easy access to weather updates, enhancing the overall user experience.<br><br>
+<strong>Technologies used:</strong> CSS, React.js, JSX Components
+
 The following dependecies will be required to run the project
 ---------------------------------------------------------------
 
